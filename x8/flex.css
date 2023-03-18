@@ -1,0 +1,114 @@
+
+.header {
+  margin: 0;
+  background: #f0e0d6;
+  padding: 0;
+  border: 2px solid #d9bfb7;
+  width: 100%;
+  padding-left: 0;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 35px;
+}
+
+/* Info box styles */
+.infoBox {
+  background: #ea8;
+  border: 1px solid #800;
+  padding: 0 5px;
+}
+
+/* Body styles */
+body {
+  color: maroon;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 10pt;
+  padding: 0;
+  margin: 0;
+  background: #ffe;
+}
+
+/* Post styles */
+.postName {
+  color: #117743;
+  font-weight: 700;
+}
+
+.reply {
+  margin: 8px;
+  padding: 5px;
+  background: #f0e0d6;
+  border: 2px solid #d9bfb7;
+  width: 600px;
+}
+
+.postNum {
+  font-weight: 700;
+}
+
+.postText {
+  margin: 0;
+  padding: 0;
+}
+
+.postImage {
+  float: left;
+  margin-right: 10px;
+}
+
+.postContent {
+  overflow: hidden;
+}
+
+img {
+  max-width: 400px;
+}
+
+/* Pagination styles */
+#pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+#pagination a {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 0 4px;
+  background-color: #f0e0d6;
+  border: 2px solid #d9bfb7;
+  text-decoration: none;
+  color: maroon;
+  font-weight: bold;
+}
+
+#pagination a:hover {
+  background-color: #d9bfb7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
